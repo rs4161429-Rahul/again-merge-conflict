@@ -1,2 +1,6 @@
-jbhhhhhd
+
+<<<<<<< HEAD
 wefgeg
+=======
+hbdbewb 
+>>>>>>> feature2
